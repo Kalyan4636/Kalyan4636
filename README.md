@@ -1,14 +1,14 @@
 
-<h1 align="center">Hi 👋, I'm Ashwani Kumar Sonu</h1>
+<h1 align="center">Hi 👋, I'm Aditya Kalyan</h1>
 
 
-<h3 align="center"> I am currently pursuing my B.Tech in Computer Science & Engineering, I am passionate about coding , Data Science and Full Stack  Development.</h3>
+<h3 align="center"> I am currently pursuing my B.Tech in Computer Science & Engineering, I am passionate about coding , Python,machine learning.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AshwaniKrSonu619&label=Profile%20views&color=0e75b6&style=flat" alt="AshwaniKrSonu619" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kalyan4636&label=Profile%20views&color=0e75b6&style=flat" alt="kalyan4636" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ashwanikrsonu" target="blank"><img src="https://img.shields.io/twitter/follow/ashwanikrsonu?logo=twitter&style=for-the-badge" alt="ashwanikrsonu" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ADITYAK37929458" target="blank"><img src="https://img.shields.io/twitter/follow/ADITYAK37929458?logo=twitter&style=for-the-badge" alt="ashwanikrsonu" /></a> </p>
 
-- ***🔭 I’m currently working on-[Data Science](https://github.com/AshwaniKrSonu619)***
+- ***🔭 I’m currently working on-[Data Science](https://github.com/Kalyan4636)***
 
 - ***🌱 I’m currently learning -Java(DSA) ,Core Python (Basic +Advanced),Web Dev(MERN Stack),Core Fundamentals i.e OS,DBMS,SQL,OOPS,POINTERS,Automation,Full Stack Project.***
 
