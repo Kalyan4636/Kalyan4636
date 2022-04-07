@@ -12,17 +12,17 @@
 
 - ***🌱 I’m currently learning -Java(DSA) ,Core Python (Basic +Advanced),Web Dev(MERN Stack),Core Fundamentals i.e OS,DBMS,SQL,OOPS,POINTERS,Automation,Full Stack Project.***
 
-- ***👯 I’m looking to collaborate on Data Science ,Python.***
+- ***👯 I’m looking to collaborate on Data Science ,Python & Machine Learning.***
 
 - ***🤝 I’m looking for help with  Java ,Javascript,ReactJS ,Nodejs,System Design ,Development and Deployment,API Design.***
 
-- ***💻 All of my projects are available at [https://github.com/AshwaniKrSonu619](https://github.com/AshwaniKrSonu619)***
+- ***💻 All of my projects are available at [https://github.com/Kalyan4636](https://github.com/ADITYA KALYAN)***
 
-- ***📝 I regularly write articles on [https://knowledgeconflu.blogspot.com/](https://knowledgeconflu.blogspot.com/)***
+- ***� I am pasionate about Artificial Intelligence & Machine Learning.***
 
-- ***💬 Ask me about Data Science , Java , Python Programming.***
+- ***💬 Ask me about Data Science , Machine Learning,  AI , Python Programming.***
 
- **📫 How to reach me sonuashwanikumarsonu@gmail.com**
+ **📫 How to reach me adityakalyanbscc@gmail.com**
 
  **⚡ Fun fact ⚡ 
      - I am open for collaborations and projects.**
@@ -31,12 +31,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ashwanikrsonu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashwanikrsonu" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ashwani-kumar-sonu-2a5288212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashwanikumarsonu" height="30" width="40" /></a>
-<a href="https://fb.com/ashwanikumarsonu.sonu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashwanikumarsonu.sonu" height="30" width="40" /></a>
-<a href="https://instagram.com/iamashwani_sonu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamashwani_sonu" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/aks1994870" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@aks1994870" height="30" width="40" /></a>
-<a href="https://discord.gg/AxU4Eb4b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AxU4Eb4b" height="30" width="40" /></a>
+<a href="https://twitter.com/ADITYAK37929458" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashwanikrsonu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aditya-kalyan-08b9021b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ADITYA KALYAN" height="30" width="40" /></a>
+<a href="https://fb.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashwanikumarsonu.sonu" height="30" width="40" /></a>
+<a href="https://instagram.com/code_with_kalyan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="code_with_kalyan_" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="" height="30" width="40" /></a>
+<a href="https://discord.gg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AxU4Eb4b" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
