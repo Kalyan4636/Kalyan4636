@@ -10,13 +10,13 @@
 
 - ***🔭 I’m currently working on-[Data Science](https://github.com/Kalyan4636)***
 
-- ***🌱 I’m currently learning -Java(DSA) ,Core Python (Basic +Advanced),Web Dev(MERN Stack),Core Fundamentals i.e OS,DBMS,SQL,OOPS,POINTERS,Automation,Full Stack Project.***
+- ***🌱 I’m currently learning -Java(DSA) ,Core Python (Basic +Advanced)***
 
 - ***👯 I’m looking to collaborate on Data Science ,Python & Machine Learning.***
 
 - ***🤝 I’m looking for help with  Java ,Javascript,ReactJS ,Nodejs,System Design ,Development and Deployment,API Design.***
 
-- ***💻 All of my projects are available at [https://github.com/Kalyan4636](https://github.com/ADITYA KALYAN)***
+- ***💻 All of my projects are available at [https://github.com/Kalyan4636](https://github.com/Kalyan4636)***
 
 - ***� I am pasionate about Artificial Intelligence & Machine Learning.***
 
