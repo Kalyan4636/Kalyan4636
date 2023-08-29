@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm ADITYA KALYAN</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<image align="right" alt="coding" width="400" src="![Uploading gif.jpg…]()">
+<image align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?size=626&ext=jpg&ga=GA1.2.798525786.1683729074&semt=ais">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalyan4636&label=Profile%20views&color=0e75b6&style=flat" alt="kalyan4636" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kalyan4636" alt="kalyan4636" /></a> </p>
+<p align<img src="https://github-profile-trophy.vercel.app/?username=kalyan4636" alt="kalyan4636" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/adityak37929458" target="blank"><img src="https://img.shields.io/twitter/follow/adityak37929458?logo=twitter&style=for-the-badge" alt="adityak37929458" /></a> </p>
 
