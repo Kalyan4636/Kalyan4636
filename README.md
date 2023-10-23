@@ -42,7 +42,7 @@
 <p align="left">
 <a href="https://twitter.com/adityak37929458" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adityak37929458" height="30" width="40" /></a>
 <a href="https://hackerrank.com/adityakalyanbscc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adityak37929458" height="30" width="40" /></a>
-<a href="https://leetcode.com/CODE_WITH_KALYAN/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="leetcode" height="30" width="40" /></a>
+<a href="https://leetcode.com/CODE_WITH_KALYAN/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adityak37929458" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/linkedin.com/in/aditya-kalyan-08b9021b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/aditya-kalyan-08b9021b0" height="30" width="40" /></a>
 <a href="https://instagram.com/code_with_kalyan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="code_with_kalyan_" height="30" width="40" /></a>
 <a href="https://medium.com/@adityakalyanbscc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@adityakalyanbscc" height="30" width="40" /></a>
@@ -75,7 +75,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kalyan4636&" alt="kalyan4636" /></p>
 
 
-
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 
 
 
