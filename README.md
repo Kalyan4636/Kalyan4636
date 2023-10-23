@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm ADITYA KALYAN</h1>
+
 <h3 align="center">A passionate frontend developer from India</h3>
+
+<h3 align="center">Coding emojis can also be used to create more complex and creative representations of code. For example, this tweet uses emojis to represent the classic "Hello, World!" program in Python:</h3>
+
+<h2 align="center">🐍 print("Hello, World!")</h2>
+
 <image align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?size=626&ext=jpg&ga=GA1.2.798525786.1683729074&semt=ais">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalyan4636&label=Profile%20views&color=0e75b6&style=flat" alt="kalyan4636" /> </p>
