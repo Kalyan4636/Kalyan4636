@@ -72,14 +72,17 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalyan4636&show_icons=true&locale=en" alt="kalyan4636" /></p>
 
-<h1 align="center">Hi 👋, I'm ADITYA KALYAN</h1>
-
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kalyan4636&" alt="kalyan4636" /></p>
 
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
+<h1 align="center">Hi 👋, THANK'S FOR VISITING MY PROFILE</h1>
 
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
