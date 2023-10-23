@@ -38,7 +38,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's Connect with me::💡</h3>
 <p align="left">
 <a href="https://twitter.com/adityak37929458" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adityak37929458" height="30" width="40" /></a>
 <a href="https://hackerrank.com/adityakalyanbscc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adityak37929458" height="30" width="40" /></a>
