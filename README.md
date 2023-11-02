@@ -2,9 +2,7 @@
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<h3 align="center">Coding emojis can also be used to create more complex and creative representations of code. For example, this tweet uses emojis to represent the classic "Hello, World!" program in Python:</h3>
 
-<h2 align="center">🐍 print("Hello, World!")</h2>
 
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
@@ -34,9 +32,7 @@
 
 - ⚡ Fun fact **I am open for collaborations and projects.**
 
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
+
 
 
 ### <img src="ConnectWithMe.png" align = "center" width=100% height=auto>
