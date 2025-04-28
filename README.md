@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ADITYA KALYAN</h1>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Experinced DATA ANALYST from India</h3>
 
 
 
