@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ADITYA KALYAN</h1>
 
-<h3 align="center">A passionate Experinced DATA ANALYST from India</h3>
+<h3 align="center">Helping you break into Data Analytics | Mentor to 500+ professionals | SQL · Python · Power BIa</h3>
 
 
 
@@ -16,11 +16,12 @@
 
 <p align="left"> <a href="https://twitter.com/adityak37929458" target="blank"><img src="https://img.shields.io/twitter/follow/adityak37929458?logo=twitter&style=for-the-badge" alt="adityak37929458" /></a> </p>
 
-- 🔭 I’m currently working on **WEB DEVELOPMENT PROJECT**
-
-- 🌱 I’m currently learning **Django,Flask**
-
-- 👯 I’m looking to collaborate on **DATA SCIENCE PROJECT**
+##  🌟 About Me 
+-🎓 B.Tech CSE (AI) Student  
+- 📊 Passionate about turning **raw data into actionable insights**
+- 🧠 Skilled in **Excel, SQL, Python & Power BI**
+- 🚀 Building **EvoForge** – A platform focused on data-driven solutions
+- 💡 Love solving real-world problems using data
 
 - 👨‍💻 All of my projects are available at [https://athenasquare.org/adityakalyanbscc](https://athenasquare.org/adityakalyanbscc)
 
