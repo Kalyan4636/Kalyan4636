@@ -20,7 +20,7 @@
 -🎓 B.Tech CSE (AI) Student  
 - 📊 Passionate about turning **raw data into actionable insights**
 - 🧠 Skilled in **Excel, SQL, Python & Power BI**
-- 🚀 Building **EvoForge** – A platform focused on data-driven solutions
+- 🚀 Building **Data Detective Club** – A platform focused on data-driven solutions
 - 💡 Love solving real-world problems using data
 
 - 👨‍💻 All of my projects are available at [https://athenasquare.org/adityakalyanbscc](https://athenasquare.org/adityakalyanbscc)
