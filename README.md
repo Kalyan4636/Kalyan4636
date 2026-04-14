@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ADITYA KALYAN</h1>
 
-<h3 align="center">Helping you break into Data Analytics | Mentor to 500+ professionals | SQL · Python · Power BIa</h3>
+<h3 align="center">Helping you break into Data Analytics | Mentor to 500+ professionals | SQL · Python · Power BI</h3>
 
 
 
