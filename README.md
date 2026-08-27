@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Aditya Kalyan 👋</h1>
 <h3 align="center">Data Analytics Trainer & Mentor | Helping Professionals Break Into Data</h3>
-<h4 align="center">📊 500+ Professionals Mentored | SQL · Python · Power BI · Excel</h4>
+<h4 align="center">📊 100+ Professionals Mentored | SQL · Python · Power BI · Excel</h4>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
