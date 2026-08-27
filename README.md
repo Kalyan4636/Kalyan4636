@@ -1,112 +1,151 @@
-<h1 align="center">Hi 👋, I'm ADITYA KALYAN</h1>
+<h1 align="center">Hi, I'm Aditya Kalyan 👋</h1>
+<h3 align="center">Data Analytics Trainer & Mentor | Helping Professionals Break Into Data</h3>
+<h4 align="center">📊 500+ Professionals Mentored | SQL · Python · Power BI · Excel</h4>
 
-<h3 align="center">Helping you break into Data Analytics | Mentor to 500+ professionals | SQL · Python · Power BI</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kalyan4636&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://twitter.com/adityak37929458" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/adityak37929458?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+  </a>
+</p>
 
+---
 
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
+## 🌟 About Me
 
-<image align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?size=626&ext=jpg&ga=GA1.2.798525786.1683729074&semt=ais">
+I'm a **Data Analytics Trainer and Mentor**, currently pursuing a **B.Tech in Computer Science (AI)**. I help students and working professionals build practical, job-ready skills in data analytics — and I've guided **500+ learners** through that journey so far.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kalyan4636&label=Profile%20views&color=0e75b6&style=flat" alt="kalyan4636" /> </p>
+- 📊 I train professionals in **Excel, SQL, Python, and Power BI**
+- 🧠 I focus on turning **raw data into actionable business insights**
+- 🚀 Founder of **Data Detective Club** — a community built around data-driven problem solving
+- ✍️ I write regularly on data analytics concepts and career guidance
+- 💡 Open to **collaborations, training partnerships, and speaking opportunities**
 
-<p align<img src="https://github-profile-trophy.vercel.app/?username=kalyan4636" alt="kalyan4636" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/adityak37929458" target="blank"><img src="https://img.shields.io/twitter/follow/adityak37929458?logo=twitter&style=for-the-badge" alt="adityak37929458" /></a> </p>
+## 🎓 What I Do
 
-##  🌟 About Me 
--🎓 B.Tech CSE (AI) Student  
-- 📊 Passionate about turning **raw data into actionable insights**
-- 🧠 Skilled in **Excel, SQL, Python & Power BI**
-- 🚀 Building **Data Detective Club** – A platform focused on data-driven solutions
-- 💡 Love solving real-world problems using data
+| Area | Details |
+|---|---|
+| **Training** | Structured SQL, Python & Power BI courses for aspiring data analysts |
+| **Mentorship** | 1:1 and cohort mentoring for career switchers into analytics |
+| **Content** | Articles and tutorials breaking down real-world analytics workflows |
+| **Community** | Building *Data Detective Club* — a space for hands-on data projects |
 
-- 👨‍💻 All of my projects are available at [https://athenasquare.org/adityakalyanbscc](https://athenasquare.org/adityakalyanbscc)
+---
 
-- 📝 I regularly write articles on [https://medium.com/@adityakalyanbscc](https://medium.com/@adityakalyanbscc)
+## 🔗 Find My Work
 
-- 💬 Ask me about **python,java,sql**
+- 💼 Projects: [athenasquare.org/adityakalyanbscc](https://athenasquare.org/adityakalyanbscc)
+- ✍️ Articles: [medium.com/@adityakalyanbscc](https://medium.com/@adityakalyanbscc)
+- 📧 Email: **adityakalyanbscc@gmail.com**
 
-- 📫 How to reach me **adityakalyanbscc@gmail.com**
+---
 
-- ⚡ Fun fact **I am open for collaborations and projects.**
+## 🧰 Tools & Technologies
 
+**Languages**
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
+**Data & Analytics**
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
+**Machine Learning**
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
 
-### <img src="ConnectWithMe.png" align = "center" width=100% height=auto>
+**Design & Productivity**
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
-<hr>
+**Tools**
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-<p align="center" align='right'>
-<a href="https://twitter.com/adityak37929458" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adityak37929458" height="30" width="40" /></a>
-<a href="https://hackerrank.com/adityakalyanbscc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adityak37929458" height="30" width="40" /></a>
-<a href="https://leetcode.com/CODE_WITH_KALYAN/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adityak37929458" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/aditya-kalyan-08b9021b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/aditya-kalyan-08b9021b0" height="30" width="40" /></a>
-<a href="https://instagram.com/code_with_kalyan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="code_with_kalyan_" height="30" width="40" /></a>
-<a href="https://medium.com/@adityakalyanbscc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@adityakalyanbscc" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/code with kalyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code with kalyan" height="30" width="40" /></a>
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kalyan4636&show_icons=true&locale=en&theme=default" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalyan4636&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalyan4636" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kalyan4636" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🧩 Practice & Problem Solving
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Kalyan4636?ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+![LeetCode](https://img.shields.io/badge/Leetcode-000000?style=for-the-badge&logo=LeetCode&logoColor=orange)
+![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
+![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/aditya-kalyan-08b9021b0" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/adityak37929458" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/code_with_kalyan_" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://medium.com/@adityakalyanbscc" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
+  </a>
+  <a href="https://hackerrank.com/adityakalyanbscc" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+  </a>
+</p>
+
+## ☕ Support My Work
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/kalyan4636" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="45" width="180" />
+  </a>
+  <a href="https://ko-fi.com/kalyan4636" target="_blank">
+    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" alt="Ko-fi" height="45" width="180" />
+  </a>
 </p>
 
 <h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
-
-<h3 align="center">PROGRAMMING LANGUAGES 👨‍💻 👨‍💻 </h3>
-### <img src="stack.png" align = "center" width=100% height=auto>
-
-|               |           |
-|       ---     |    ---    |
-| <img src="ProgrammingLanguages.png" style="width:300px" align = "center">| ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![JSON](https://img.shields.io/badge/json-FF4B4B?style=for-the-badge&logo=json&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-| <img src="OperatingSystem.png" style="width:300px" align = "center">| ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-| <img src="Databases.png" style="width:300px" align = "center">| ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) |
-| <img src="UI_UX.png" style="width:300px" align = "center">| ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)|
-| <img src="SoftwareKnowledge.png" style="width:300px" align = "center">|  ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) ![IntelliJ IDE](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=whit) |
-| <img src="MachineLearning.png" style="width:300px" align = "center">| ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)| 
-| <img src="CompetitiveCoding.png" style="width:300px" align = "center">|![LeetCode](https://img.shields.io/badge/Leetcode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)| 
-
-
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
-
-<h3 align="left">Support:💡</h3>
-<p><a href="https://www.buymeacoffee.com/kalyan4636"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kalyan4636" /></a><a href="https://ko-fi.com/kalyan4636"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kalyan4636" /></a></p><br><br>
-
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalyan4636&show_icons=true&locale=en&layout=compact" alt="kalyan4636" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalyan4636&show_icons=true&locale=en" alt="kalyan4636" /></p>
-
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kalyan4636&" alt="kalyan4636" /></p>
-
-</div>
-
-![](https://leetcard.jacoblin.cool/Kalyan4636?ext=heatmap)
-
-![](https://leetcard.jacoblin.cool/CODE_WITH_KALYAN?ext=heatmap)
-
-
-
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
-
-<h1 align="center">Hi 👋, THANK'S FOR VISITING MY PROFILE</h1>
-
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
-
+<p align="center"><i>Thanks for stopping by — let's turn data into decisions. 📊</i></p>
 
 
