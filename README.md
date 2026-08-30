@@ -77,14 +77,8 @@ I'm a **Data Analytics Trainer and Mentor**, currently pursuing a **B.Tech in Co
 
 ---
 
-## 🧩 Practice & Problem Solving
 
-<div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Kalyan4636?ext=heatmap)](https://leetcode.com/CODE_WITH_KALYAN/)
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=orange)
-![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
-![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
 
 </div>
 
