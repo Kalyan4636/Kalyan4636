@@ -8,8 +8,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kalyan4636&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://twitter.com/adityak37929458" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/adityak37929458?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+  <a href="https://twitter.com/ADITYAK37929458" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/ADITYAK37929458?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a>
 </p>
 
@@ -40,50 +40,36 @@ I'm a **Data Analytics Trainer and Mentor**, currently pursuing a **B.Tech in Co
 
 ### 🔗 Find My Work
 
-- 💼 **Portfolio:** [https://www.datascienceportfol.io/adityakalyanbscc]_(https://www.datascienceportfol.io/adityakalyanbscc)
+- 💼 **Projects:** [athenasquare.org/adityakalyanbscc](https://athenasquare.org/adityakalyanbscc)
+- 🗂️ **Portfolio:** [datascienceportfol.io/adityakalyanbscc](https://www.datascienceportfol.io/adityakalyanbscc)
 - ✍️ **Articles:** [medium.com/@adityakalyanbscc](https://medium.com/@adityakalyanbscc)
+- 🧩 **LeetCode:** [leetcode.com/CODE_WITH_KALYAN](https://leetcode.com/CODE_WITH_KALYAN/)
 - 📧 **Email:** [adityakalyanbscc@gmail.com](mailto:adityakalyanbscc@gmail.com)
 
 ---
 
-### 🧰 Tools & Technologies
+### 🧰 Tools & Technologies (Data Analytics & AI)
 
-**Languages**
+**Languages & Querying**
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-**Data & Analytics**
-
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Data Analysis & Visualization**
+
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-**Machine Learning**
+**Machine Learning & AI**
 
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
-
-**Design & Productivity**
-
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ---
 
@@ -119,11 +105,14 @@ I'm a **Data Analytics Trainer and Mentor**, currently pursuing a **B.Tech in Co
 ### 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/aditya-kalyan-08b9021b0" target="_blank">
+  <a href="https://www.linkedin.com/in/adityaakalyan/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/adityak37929458" target="_blank">
+  <a href="https://twitter.com/ADITYAK37929458" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/CODE_WITH_KALYAN/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="LeetCode" height="30" width="40" />
   </a>
   <a href="https://instagram.com/code_with_kalyan_" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
