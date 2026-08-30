@@ -9,6 +9,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=kalyan4636&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/Kalyan4636)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ADITYAK37929458?logo=twitter&style=flat)](https://twitter.com/ADITYAK37929458)
 
 </div>
 
@@ -16,12 +17,19 @@
 
 ## 🌟 About Me
 
-I'm a **Data Analytics Trainer and Mentor**, currently pursuing a **B.Tech in Computer Science (AI)**. I help students and working professionals build practical, job-ready skills in data analytics — and I've guided **1000+ learners** through that journey so far.
+I'm a **Data Analytics Trainer and Mentor**, currently pursuing a **B.Tech in Computer Science (AI)**. My focus is simple: take someone with little or no analytics background and get them to a point where they can confidently work with real data, real tools, and real business problems — not just tutorials.
 
-- 📊 I train professionals in **Excel, SQL, Python, and Power BI**
-- 🧠 I focus on turning **raw data into actionable business insights**
-- 🚀 Founder of **Data Detective Club** — a community built around data-driven problem solving
-- ✍️ I write regularly on data analytics concepts and career guidance
+Over the past few years, I've guided **1000+ students and working professionals** through that transition — from complete beginners exploring Excel for the first time, to career switchers preparing for analyst interviews, to professionals leveling up their SQL and Power BI skills for their current roles. I built my teaching approach around one core belief: **data analytics is best learned by doing**, not by memorizing syntax. Every course, mentoring session, and project I run is structured around applying tools to messy, real-world-style datasets so the learning actually sticks.
+
+Alongside training, I run **Data Detective Club**, a community I founded for people who want to sharpen their skills through hands-on projects and peer learning — case studies, dashboards, and datasets that mimic what analysts actually face on the job. I also write regularly, breaking down analytics concepts, tools, and career strategy for people trying to break into the field.
+
+**A quick snapshot of what I do:**
+
+- 📊 Train professionals in **Excel, SQL, Python, and Power BI** — from fundamentals to job-ready proficiency
+- 🧠 Focus on turning **raw data into actionable business insights**, not just clean charts
+- 🚀 Founded **Data Detective Club** — a community built around data-driven problem solving
+- 🎯 Specialize in **career-switcher mentorship** — helping non-tech professionals pivot into analytics roles
+- ✍️ Write regularly on data analytics concepts, tools, and career guidance
 - 💡 Open to **collaborations, training partnerships, and speaking opportunities**
 
 ---
@@ -77,8 +85,15 @@ I'm a **Data Analytics Trainer and Mentor**, currently pursuing a **B.Tech in Co
 
 ---
 
+## 🧩 Practice & Problem Solving
 
+<div align="center">
 
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Kalyan4636?ext=heatmap)](https://leetcode.com/CODE_WITH_KALYAN/)
+
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=orange)
+![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
+![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
 
 </div>
 
@@ -93,23 +108,13 @@ An end-to-end analytics dashboard built to surface actionable business insights 
 
 ## 🔗 Find My Work
 
+- 💼 **Projects:** [athenasquare.org/adityakalyanbscc](https://athenasquare.org/adityakalyanbscc)
 - 🗂️ **Portfolio:** [datascienceportfol.io/adityakalyanbscc](https://www.datascienceportfol.io/adityakalyanbscc)
 - ✍️ **Articles:** [medium.com/@adityakalyanbscc](https://medium.com/@adityakalyanbscc)
 - 🧩 **LeetCode:** [leetcode.com/CODE_WITH_KALYAN](https://leetcode.com/CODE_WITH_KALYAN/)
 - 📧 **Email:** adityakalyanbscc@gmail.com
 
 ---
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/adityaakalyan/)
-[![Twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/ADITYAK37929458)
-[![LeetCode](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg)](https://leetcode.com/CODE_WITH_KALYAN/)
-[![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/code_with_kalyan_)
-[![Medium](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg)](https://medium.com/@adityakalyanbscc)
-[![HackerRank](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg)](https://hackerrank.com/adityakalyanbscc)
 
 ### ☕ Support My Work
 
