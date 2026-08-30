@@ -9,7 +9,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=kalyan4636&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/Kalyan4636)
-[![Twitter Follow](https://img.shields.io/twitter/follow/ADITYAK37929458?logo=twitter&style=flat)](https://twitter.com/ADITYAK37929458)
+
 
 </div>
 
