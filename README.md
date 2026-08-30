@@ -1,21 +1,20 @@
-<h1 align="center">Hi, I'm Aditya Kalyan 👋</h1>
-<h3 align="center">Data Analytics Trainer & Mentor | Turning Beginners into Job-Ready Analysts</h3>
-<h4 align="center">📊 1000+ Professionals Mentored &nbsp;|&nbsp; SQL · Python · Power BI · Excel</h4>
+<div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</p>
+# 👋 Hi, I'm Aditya Kalyan
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kalyan4636&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://twitter.com/ADITYAK37929458" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/ADITYAK37929458?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
-</p>
+### Data Analytics Trainer & Mentor | Turning Beginners into Job-Ready Analysts
+
+📊 **1000+ Professionals Mentored** &nbsp;·&nbsp; SQL &nbsp;·&nbsp; Python &nbsp;·&nbsp; Power BI &nbsp;·&nbsp; Excel
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=kalyan4636&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/Kalyan4636)
+
+</div>
 
 ---
 
-### 🌟 About Me
+## 🌟 About Me
 
 I'm a **Data Analytics Trainer and Mentor**, currently pursuing a **B.Tech in Computer Science (AI)**. I help students and working professionals build practical, job-ready skills in data analytics — and I've guided **1000+ learners** through that journey so far.
 
@@ -27,28 +26,18 @@ I'm a **Data Analytics Trainer and Mentor**, currently pursuing a **B.Tech in Co
 
 ---
 
-### 🎓 What I Do
+## 🎓 What I Do
 
 | Area | Details |
 |---|---|
-| **Training** | Structured SQL, Python & Power BI courses for aspiring data analysts |
-| **Mentorship** | 1:1 and cohort mentoring for career switchers into analytics |
-| **Content** | Articles and tutorials breaking down real-world analytics workflows |
-| **Community** | Building *Data Detective Club* — a space for hands-on data projects |
+| 🧑‍🏫 **Training** | Structured SQL, Python & Power BI courses for aspiring data analysts |
+| 🤝 **Mentorship** | 1:1 and cohort mentoring for career switchers into analytics |
+| ✍️ **Content** | Articles and tutorials breaking down real-world analytics workflows |
+| 🕵️ **Community** | Building *Data Detective Club* — a space for hands-on data projects |
 
 ---
 
-### 🔗 Find My Work
-
-- 💼 **Projects:** [athenasquare.org/adityakalyanbscc](https://athenasquare.org/adityakalyanbscc)
-- 🗂️ **Portfolio:** [datascienceportfol.io/adityakalyanbscc](https://www.datascienceportfol.io/adityakalyanbscc)
-- ✍️ **Articles:** [medium.com/@adityakalyanbscc](https://medium.com/@adityakalyanbscc)
-- 🧩 **LeetCode:** [leetcode.com/CODE_WITH_KALYAN](https://leetcode.com/CODE_WITH_KALYAN/)
-- 📧 **Email:** [adityakalyanbscc@gmail.com](mailto:adityakalyanbscc@gmail.com)
-
----
-
-### 🧰 Tools & Technologies (Data Analytics & AI)
+## 🧰 Tools & Technologies
 
 **Languages & Querying**
 
@@ -66,78 +55,77 @@ I'm a **Data Analytics Trainer and Mentor**, currently pursuing a **B.Tech in Co
 
 **Machine Learning & AI**
 
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalyan4636&show_icons=true&locale=en&theme=default" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalyan4636&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="165" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalyan4636" alt="GitHub Streak" />
-</p>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=kalyan4636&show_icons=true&locale=en&theme=default" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalyan4636&show_icons=true&locale=en&layout=compact" />
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kalyan4636" alt="GitHub Trophies" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kalyan4636" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=kalyan4636" />
+
+</div>
 
 ---
 
-### 🧩 Practice & Problem Solving
+## 🧩 Practice & Problem Solving
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Kalyan4636?ext=heatmap" alt="LeetCode Stats" />
-</p>
+<div align="center">
 
-![LeetCode](https://img.shields.io/badge/Leetcode-000000?style=for-the-badge&logo=LeetCode&logoColor=orange)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Kalyan4636?ext=heatmap)](https://leetcode.com/CODE_WITH_KALYAN/)
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=orange)
 ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
 ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
 
+</div>
+
 ---
 
-### 🤝 Let's Connect
+## 📌 Featured Project
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/adityaakalyan/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/ADITYAK37929458" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/CODE_WITH_KALYAN/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/code_with_kalyan_" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@adityakalyanbscc" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
-  </a>
-  <a href="https://hackerrank.com/adityakalyanbscc" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a>
-</p>
+**[Food Delivery Analytics Dashboard (Power BI)](https://github.com/Kalyan4636/Food-Delivery-Analytics-Dashboard-Using-POWER-BI-)**
+An end-to-end analytics dashboard built to surface actionable business insights from food delivery data.
+
+---
+
+## 🔗 Find My Work
+
+- 🗂️ **Portfolio:** [datascienceportfol.io/adityakalyanbscc](https://www.datascienceportfol.io/adityakalyanbscc)
+- ✍️ **Articles:** [medium.com/@adityakalyanbscc](https://medium.com/@adityakalyanbscc)
+- 🧩 **LeetCode:** [leetcode.com/CODE_WITH_KALYAN](https://leetcode.com/CODE_WITH_KALYAN/)
+- 📧 **Email:** adityakalyanbscc@gmail.com
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/adityaakalyan/)
+[![Twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/ADITYAK37929458)
+[![LeetCode](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg)](https://leetcode.com/CODE_WITH_KALYAN/)
+[![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/code_with_kalyan_)
+[![Medium](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg)](https://medium.com/@adityakalyanbscc)
+[![HackerRank](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg)](https://hackerrank.com/adityakalyanbscc)
 
 ### ☕ Support My Work
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/kalyan4636" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="45" width="180" />
-  </a>
-  <a href="https://ko-fi.com/kalyan4636" target="_blank">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" alt="Ko-fi" height="45" width="180" />
-  </a>
-</p>
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/kalyan4636)
+[![Ko-fi](https://cdn.ko-fi.com/cdn/kofi3.png?v=3)](https://ko-fi.com/kalyan4636)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</p>
+</div>
 
-<p align="center"><i>Thanks for stopping by — let's turn data into decisions. 📊</i></p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
+<div align="center">
+<i>Thanks for stopping by — let's turn data into decisions. 📊</i>
+</div>
