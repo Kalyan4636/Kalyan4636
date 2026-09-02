@@ -19,10 +19,7 @@
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=kalyan4636&label=Profile%20Views&color=0e75b6&style=flat" />
-<img src="https://img.shields.io/twitter/follow/ADITYAK37929458?logo=twitter&style=flat" />
-</p>
 
----
 
 ### 🌟 About Me
 
