@@ -273,26 +273,13 @@ Business Recommendation
 </p>
 
 ---
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kalyan4636&theme=tokyo-night&hide_border=true"/>
-</p>
-
 ---
 
-# 🐍 My Contribution Snake
 
-<p align="center">
 
-<img src="https://raw.githubusercontent.com/Kalyan4636/Kalyan4636/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
-</p>
 
-### ⚙️ Enable the Snake Animation
-
-Create this GitHub Actions workflow:
+## Create this GitHub Actions workflow:
 
 `.github/workflows/snake.yml`
 
