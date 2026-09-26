@@ -56,7 +56,7 @@
 
 ---
 
-# 👋 Hi, I'm ADITYA KALYAN JHA 
+# 👋 Hi, I'm ADITYA KALYAN 
 
 ### 📊 Data Analyst | 📈 BI Developer | 🎓 Data Analytics Mentor
 
