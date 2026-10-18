@@ -1,6 +1,4 @@
-from pathlib import Path
-
-content = r'''<!-- ========================================================= -->
+<!-- ========================================================= -->
 <!--                    PREMIUM HEADER                         -->
 <!-- ========================================================= -->
 
@@ -20,10 +18,6 @@ content = r'''<!-- ========================================================= -->
   <a href="https://discord.gg/paZuDtmeQ"><img src="https://img.shields.io/badge/Data%20Detective%20Club-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Data Detective Club"/></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kalyan4636&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile views"/>
-</p>
-
 ---
 
 ## 👋 About Me
@@ -34,12 +28,12 @@ I'm Aditya Kalyan, a data professional focused on turning raw data into reliable
 
 Alongside my professional journey at **ORIX India**, I teach practical analytics and help learners build confidence through hands-on projects, SQL practice, dashboard development, and interview preparation.
 
-- 💼 **Current role:** Data Engineer at ORIX India
-- 🧩 **Professional interests:** Data engineering, data quality, transformation, analytics, and BI
-- 🛠️ **Core toolkit:** SQL, Python, Excel, Power BI, DAX, and Power Query
-- 🎓 **Trainer & educator:** Supporting 1,000+ aspiring analysts and professionals with practical learning
-- 🔎 **Community:** Data Detective Club — a learning community for data analytics and real-world projects
-- 🌱 **Mindset:** Keep learning, validate the data, understand the business question, and communicate the result clearly
+- 💼 **Current role :** Data Engineer at ORIX India
+- 🧩 **Professional interests :** Data engineering, data quality, transformation, analytics, and BI
+- 🛠️ **Core toolkit :** SQL, Python, Excel, Power BI, DAX, and Power Query
+- 🎓 **Trainer & educator :** Supporting 1,000+ aspiring analysts and professionals with practical learning
+- 🔎 **Community :** Data Detective Club — a learning community for data analytics and real-world projects
+- 🌱 **Mindset :** Keep learning, validate the data, understand the business question, and communicate the result clearly
 
 > **My approach:** Don't just write a query or build a dashboard. Understand the problem, validate the result, and make the output useful for a real decision.
 
